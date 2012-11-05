@@ -1,0 +1,14 @@
+D:\Project\RPA\RPA.Data\bin\Debug\RPA.Data.dll.config
+D:\Project\RPA\RPA.Data\bin\Debug\RPA.Data.dll
+D:\Project\RPA\RPA.Data\bin\Debug\RPA.Data.pdb
+D:\Project\RPA\RPA.Data\bin\Debug\FluentNHibernate.dll
+D:\Project\RPA\RPA.Data\bin\Debug\Iesi.Collections.dll
+D:\Project\RPA\RPA.Data\bin\Debug\NHibernate.dll
+D:\Project\RPA\RPA.Data\bin\Debug\RPA.Core.dll
+D:\Project\RPA\RPA.Data\bin\Debug\RPA.Core.pdb
+D:\Project\RPA\RPA.Data\bin\Debug\FluentNHibernate.xml
+D:\Project\RPA\RPA.Data\bin\Debug\Iesi.Collections.xml
+D:\Project\RPA\RPA.Data\bin\Debug\NHibernate.xml
+D:\Project\RPA\RPA.Data\obj\Debug\RPA.Data.csprojResolveAssemblyReference.cache
+D:\Project\RPA\RPA.Data\obj\Debug\RPA.Data.dll
+D:\Project\RPA\RPA.Data\obj\Debug\RPA.Data.pdb

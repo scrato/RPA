@@ -1,0 +1,8 @@
+D:\Project\RPA\RPA\obj\Debug\MainWindow.baml
+D:\Project\RPA\RPA\obj\Debug\App.baml
+D:\Project\RPA\RPA\obj\Debug\MainWindow.g.cs
+D:\Project\RPA\RPA\obj\Debug\App.g.cs
+D:\Project\RPA\RPA\obj\Debug\RPA_MarkupCompile.cache
+D:\Project\RPA\RPA\obj\Debug\RPA.g.resources
+D:\Project\RPA\RPA\obj\Debug\RPA.Properties.Resources.resources
+D:\Project\RPA\RPA\obj\Debug\RPA.Testing.WPF.csproj.GenerateResource.Cache

@@ -1,0 +1,19 @@
+﻿<Fluent:RibbonWindow x:Class="RPA.Testing.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Fluent="clr-namespace:Fluent;assembly=Fluent"
+        Title="RPA-Testfenster" Width="500" Height="250" >
+    <Fluent:Ribbon>
+        <Fluent:Ribbon.Menu>
+            <Fluent:Backstage>
+            </Fluent:Backstage>
+        </Fluent:Ribbon.Menu>
+        <Fluent:RibbonTabItem Header="Start">
+            <Fluent:RibbonGroupBox Header="Allgemein">
+                <Fluent:Button Name="buttonCopy" Header="Kopieren"/>
+                <Fluent:Button Name="buttonCut" Header="Ausschneiden" />
+                <Fluent:Button Name="buttonPaste" Header="Einfügen" />
+            </Fluent:RibbonGroupBox>
+        </Fluent:RibbonTabItem>
+    </Fluent:Ribbon>
+</Fluent:RibbonWindow>

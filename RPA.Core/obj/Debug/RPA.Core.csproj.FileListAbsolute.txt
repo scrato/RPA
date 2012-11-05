@@ -1,0 +1,5 @@
+D:\Project\RPA\RPA.Core\bin\Debug\RPA.Core.dll.config
+D:\Project\RPA\RPA.Core\bin\Debug\RPA.Core.dll
+D:\Project\RPA\RPA.Core\bin\Debug\RPA.Core.pdb
+D:\Project\RPA\RPA.Core\obj\Debug\RPA.Core.dll
+D:\Project\RPA\RPA.Core\obj\Debug\RPA.Core.pdb

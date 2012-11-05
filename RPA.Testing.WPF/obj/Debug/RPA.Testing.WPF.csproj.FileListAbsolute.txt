@@ -1,0 +1,16 @@
+D:\Project\RPA\RPA.Testing.WPF\bin\Debug\RPA.Testing.WPF.exe.config
+D:\Project\RPA\RPA.Testing.WPF\bin\Debug\RPA.Testing.WPF.exe
+D:\Project\RPA\RPA.Testing.WPF\bin\Debug\RPA.Testing.WPF.pdb
+D:\Project\RPA\RPA.Testing.WPF\bin\Debug\Fluent.dll
+D:\Project\RPA\RPA.Testing.WPF\bin\Debug\Fluent.pdb
+D:\Project\RPA\RPA.Testing.WPF\bin\Debug\Fluent.xml
+D:\Project\RPA\RPA.Testing.WPF\obj\Debug\MainWindow.baml
+D:\Project\RPA\RPA.Testing.WPF\obj\Debug\App.baml
+D:\Project\RPA\RPA.Testing.WPF\obj\Debug\MainWindow.g.cs
+D:\Project\RPA\RPA.Testing.WPF\obj\Debug\App.g.cs
+D:\Project\RPA\RPA.Testing.WPF\obj\Debug\RPA.Testing.WPF_MarkupCompile.cache
+D:\Project\RPA\RPA.Testing.WPF\obj\Debug\RPA.Testing.WPF.g.resources
+D:\Project\RPA\RPA.Testing.WPF\obj\Debug\RPA.Testing.WPF.Properties.Resources.resources
+D:\Project\RPA\RPA.Testing.WPF\obj\Debug\RPA.Testing.WPF.csproj.GenerateResource.Cache
+D:\Project\RPA\RPA.Testing.WPF\obj\Debug\RPA.Testing.WPF.exe
+D:\Project\RPA\RPA.Testing.WPF\obj\Debug\RPA.Testing.WPF.pdb
